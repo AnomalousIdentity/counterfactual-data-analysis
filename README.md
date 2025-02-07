@@ -1,4 +1,4 @@
-Code from Data science research project
+Code from Data science research project (Personal contributions to a part of a larger project)
 
 1. Two types of possible tests for data files: Signed rank test and Wilcoxon signed rank test
 2. Code is able to extract data from medical data and use a counterfactual way to predict the populations most affected based off 3 attributes
